@@ -1,1 +1,1 @@
-My first readme
+First repo sessions
